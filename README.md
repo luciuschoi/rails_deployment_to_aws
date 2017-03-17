@@ -1,3 +1,4 @@
-# My Awesome Book
+# 레일스와 아마존 웹서비스\(AWS\)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+레일스 프로젝트를 아마존 웹서비스로 배포하는 과정을 초급자 대상으로 설명한다.
+
